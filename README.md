@@ -1,5 +1,5 @@
 ## EarthquakeAlarm
-Get notifications from the moment you set formed by the provinces and the earthquakes in Turkey and examine violence.  
+Get notifications from the moment you set formed by the provinces and the earthquakes in Turkey and examine scale.  
  
 ## Contact Me
 [★ instagram/dxgokhan](https://www.instagram.com/dxgokhan/)     [★ twitter/dxgokhan](https://twitter.com/dxgokhan)
